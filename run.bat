@@ -1,1 +1,3 @@
-dotnet run --project Test_Lucky_Ticket.csproj
+@echo off 
+dotnet run 
+pause 
